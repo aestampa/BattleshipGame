@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="aestampaBattleship.Gameboard">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgCAAAICAAIAAAAAAQAAAAAAAAAgAEAAIAAAAAA=</HashCode>
+      <FileName>Gameboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="aestampaBattleship.Game">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAKAACEAJAIAAAAAE4AQAAAAIAABAAAiAAI=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="aestampaBattleship.Ship">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAQIAEAAAYYAAAJmAAAgAKAAAAEAOAAACAAAAEAAA=</HashCode>
+      <FileName>Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
